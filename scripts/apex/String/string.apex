@@ -7,3 +7,5 @@ String s4 = 'ABCD';
 System.debug(s3.compareTo(s4));
 System.debug(s.contains('quick'));
 System.debug(s.deleteWhitespace());
+System.debug(s3.equals(s4));
+System.debug(s.indexOf('quick'));
