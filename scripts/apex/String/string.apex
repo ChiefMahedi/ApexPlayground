@@ -1,0 +1,9 @@
+String s = 'the quick brown fox jumped over the lazy dog.';
+String s2 = s.capitalize();
+System.debug(s2);
+System.debug(s2.charAt(7));
+String s3 = 'ABCD';
+String s4 = 'ABCD';
+System.debug(s3.compareTo(s4));
+System.debug(s.contains('quick'));
+System.debug(s.deleteWhitespace());
