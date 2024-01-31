@@ -9,3 +9,8 @@ System.debug(s.contains('quick'));
 System.debug(s.deleteWhitespace());
 System.debug(s3.equals(s4));
 System.debug(s.indexOf('quick'));
+String s5 = s.remove('quick');
+System.debug(s5);
+String s6 = s.replace('quick', 'slow');
+System.debug(s6);
+System.debug(s.reverse());
