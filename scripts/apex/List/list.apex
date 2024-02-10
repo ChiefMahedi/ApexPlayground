@@ -14,3 +14,5 @@ intList.add(1);
 System.debug('Before sorting: '+intList);
 intList.sort();
 System.debug('After sorting: '+intList);
+System.debug('intList Contains 2: '+intList.contains(2));
+System.debug('intList size: '+intList.size());
