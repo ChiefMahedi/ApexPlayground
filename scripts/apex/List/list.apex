@@ -1,0 +1,14 @@
+List<String> stringList = new List<String>();
+stringList.add('Mahedi');
+stringList.add('Hasan');
+stringList.add('Shawon');
+System.debug(stringList);
+stringList.set(1, 'Hassan'); 
+System.debug(stringList);
+stringList.clear();
+System.debug(stringList);
+Integer[] intList = new List<Integer>();
+intList.add(1);
+intList.add(2);
+intList.add(3);
+System.debug(intList);
