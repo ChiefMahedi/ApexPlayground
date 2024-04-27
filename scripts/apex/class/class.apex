@@ -1,1 +1,0 @@
-HelloWorld.sayHello();
